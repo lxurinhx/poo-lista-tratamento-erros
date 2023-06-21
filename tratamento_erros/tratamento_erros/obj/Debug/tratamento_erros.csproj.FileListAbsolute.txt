@@ -1,0 +1,25 @@
+H:\POO\segunda etapa\tratamento_erros\tratamento_erros\bin\Debug\tratamento_erros.exe.config
+H:\POO\segunda etapa\tratamento_erros\tratamento_erros\bin\Debug\tratamento_erros.exe
+H:\POO\segunda etapa\tratamento_erros\tratamento_erros\bin\Debug\tratamento_erros.pdb
+H:\POO\segunda etapa\tratamento_erros\tratamento_erros\obj\Debug\tratamento_erros.csproj.AssemblyReference.cache
+H:\POO\segunda etapa\tratamento_erros\tratamento_erros\obj\Debug\tratamento_erros.csproj.SuggestedBindingRedirects.cache
+H:\POO\segunda etapa\tratamento_erros\tratamento_erros\obj\Debug\tratamento_erros.Form1.resources
+H:\POO\segunda etapa\tratamento_erros\tratamento_erros\obj\Debug\tratamento_erros.Properties.Resources.resources
+H:\POO\segunda etapa\tratamento_erros\tratamento_erros\obj\Debug\tratamento_erros.csproj.GenerateResource.cache
+H:\POO\segunda etapa\tratamento_erros\tratamento_erros\obj\Debug\tratamento_erros.csproj.CoreCompileInputs.cache
+H:\POO\segunda etapa\tratamento_erros\tratamento_erros\obj\Debug\tratamento_erros.exe
+H:\POO\segunda etapa\tratamento_erros\tratamento_erros\obj\Debug\tratamento_erros.pdb
+D:\escola e trabalho\poo\tratamento_erros\tratamento_erros\bin\Debug\tratamento_erros.exe.config
+D:\escola e trabalho\poo\tratamento_erros\tratamento_erros\bin\Debug\tratamento_erros.exe
+D:\escola e trabalho\poo\tratamento_erros\tratamento_erros\bin\Debug\tratamento_erros.pdb
+D:\escola e trabalho\poo\tratamento_erros\tratamento_erros\obj\Debug\tratamento_erros.csproj.AssemblyReference.cache
+D:\escola e trabalho\poo\tratamento_erros\tratamento_erros\obj\Debug\tratamento_erros.csproj.SuggestedBindingRedirects.cache
+D:\escola e trabalho\poo\tratamento_erros\tratamento_erros\obj\Debug\tratamento_erros.Properties.Resources.resources
+D:\escola e trabalho\poo\tratamento_erros\tratamento_erros\obj\Debug\tratamento_erros.csproj.GenerateResource.cache
+D:\escola e trabalho\poo\tratamento_erros\tratamento_erros\obj\Debug\tratamento_erros.csproj.CoreCompileInputs.cache
+D:\escola e trabalho\poo\tratamento_erros\tratamento_erros\obj\Debug\tratamento_erros.exe
+D:\escola e trabalho\poo\tratamento_erros\tratamento_erros\obj\Debug\tratamento_erros.pdb
+D:\escola e trabalho\poo\tratamento_erros\tratamento_erros\obj\Debug\tratamento_erros.CalcArea.resources
+D:\escola e trabalho\poo\tratamento_erros\tratamento_erros\obj\Debug\tratamento_erros.ExAnimal.resources
+D:\escola e trabalho\poo\tratamento_erros\tratamento_erros\obj\Debug\tratamento_erros.FormPrinc.resources
+D:\escola e trabalho\poo\tratamento_erros\tratamento_erros\obj\Debug\tratamento_erros.MaiorIdade.resources
